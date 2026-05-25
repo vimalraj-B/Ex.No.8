@@ -51,9 +51,15 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 
 # Generated Image : 
 # Basic prompt :
+
+Generate a airport
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0513e197-45a6-451a-831c-f8e433210c6b" />
 
 # Refined prompt :
+
+A cinematic, wide-angle shot of a futuristic airport terminal in the year 2050. The architecture is ultra-modern with sweeping curves, glass ceilings, and lush indoor gardens with waterfalls. Natural sunlight streaming through. Passengers walking around peacefully, holographic flight schedules floating in the air. Highly detailed, photorealistic, 8k resolution, architectural photography style.
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e72ca167-6708-42e2-9903-90b8b34c8c05" />
 
 ## Conclusion:
