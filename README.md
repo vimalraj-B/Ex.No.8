@@ -62,6 +62,16 @@ A cinematic, wide-angle shot of a futuristic airport terminal in the year 2050. 
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/e72ca167-6708-42e2-9903-90b8b34c8c05" />
 
+# Basic prompt :
+Generate a University
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f4635c27-0ade-4da1-962e-bf699a5b3917" />
+
+
+# Refined prompt :
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/faa0f08a-eb1f-490d-81eb-f4fb75cb1a81" />
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
